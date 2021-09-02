@@ -1,2 +1,2 @@
 # CRUD-MySQL-java
-CRUD utilizando en gestos de bases de datos MySQL
+CRUD utilizando el gestor de bases de datos MySQL y el lenguaje de consulta SQL
